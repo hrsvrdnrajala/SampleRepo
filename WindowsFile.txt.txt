@@ -1,0 +1,2 @@
+This is another file created on Windows machine to test the sync functionality.
+Checking the use of -u option on git push
